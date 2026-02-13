@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/throne-and-liberty-cheat-logo.png" alt="Throne and Liberty Cheat Logo" width="220"/>
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=THRONE+AND+LIBERTY+CHEAT;OP+INFINITE+HP+2026;ESP+NO+COOLDOWN;DAMAGE+MULTIPLIER;SPEED+HACK;UNDTECTED+FAST" alt="Typing SVG" />
 </p>
